@@ -3,22 +3,19 @@ b<-30
 c<-a+b
 print(c)
 class(c)
+
 #to convert the a value in integer 
 p<-as.integer(a)
 class(p)
-#help regarding if statement
-help("if")
-# to declare a list it will print all the command 
-ls()
+
 #it will give you current working directory
 getwd()
-#if you want to save the file in one folder
-#setwd("C:\t.prog")
-#while declaring variable period(dot),letters,numbers,underscrore
+
 typeof(a)
 typeof(5)
 typeof(5L)
 typeof(5i)
+
 #how to create an data structure 
 #VECTORS
 #we declare a vector by c()
