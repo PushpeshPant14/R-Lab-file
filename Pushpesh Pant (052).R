@@ -1,9 +1,9 @@
-R Programming Lab File
+# R Programming Lab File
 
-Name   : Pushpesh Pant
-Roll no : 25/SCA/MCAN/052
-Course : MCA - ’A’
-Programs
+# Name   : Pushpesh Pant
+# Roll no : 25/SCA/MCAN/052
+# Course : MCA - ’A’
+# Programs
 21-Jan-2026
 
 # Q1: Create a vector of first 50 even numbers
